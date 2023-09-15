@@ -20,7 +20,7 @@ const aboutPts: AboutPtProps[] = [
   {
     title: 'Communication',
     image: <StaticImage className={aboutClasses.skillImg} src='../../images/communication.png' alt="Communication skill image" />,
-    notes: 'I believe that communication will insure the best results.'
+    notes: 'I believe that communication will ensure the best results.'
   }
 ];
 
