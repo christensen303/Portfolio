@@ -24,13 +24,13 @@ const Contact: React.FC = () => {
         </div>
         <div className={contactClasses.contactBox}>
           <a
-            href="https://github.com/kcrey25"
+            href="https://github.com/christensen303"
             className={`${contactClasses.contactBtn} ${contactClasses.githubLink}`}
           >
             <GitHubIcon className={contactClasses.contactIcon} />
           </a>
-          <a href="https://github.com/kcrey25" className={contactClasses.contactDetails}>
-            github.com/kcrey25
+          <a href="https://github.com/christensen303" className={contactClasses.contactDetails}>
+            github.com/christensen303
           </a>
         </div>
         <div className={contactClasses.contactBox}>
